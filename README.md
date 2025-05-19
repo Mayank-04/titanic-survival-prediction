@@ -69,6 +69,6 @@ Evaluated and compared 10 ML classifiers with cross-validation:
 
 ## 📊 Visualization
 
-![Model Accuracy Comparison](images/accuracy_chart.png)
+![Model Accuracy Comparison](Images/accuracy_chart.png)
 
 ---
